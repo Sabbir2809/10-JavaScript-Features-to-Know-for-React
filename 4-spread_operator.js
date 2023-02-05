@@ -1,5 +1,5 @@
 /*
-  Topic: Spread Syntax
+  Topic: Spread operator
   1. It is represented by three dots(...) & usually works on a collection of values or an iterable to be more precise.
 */
 
